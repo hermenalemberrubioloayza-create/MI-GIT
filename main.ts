@@ -1,1 +1,2 @@
-Console.log(" Hola, este es mi primer commit")
+// comment
+console.log(" Hola, este es mi primer commit")
