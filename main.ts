@@ -1,2 +1,4 @@
 // comment
-console.log(" Hola, este es mi primer commit")
+nombre=("Hermen Rubio Loayza")
+console.log("nombre")
+
